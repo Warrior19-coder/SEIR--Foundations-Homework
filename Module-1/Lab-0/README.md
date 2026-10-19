@@ -1,8 +1,8 @@
 | Deployment | Public IPv4 address | Connection method | Screenshot | Instance terminated? |
 |------------|---------------------|-------------------|------------|----------------------|
-| 1 | PRIVATE 172.31.21.113 | EC2 Connect / SSH | screenshots/deployment-1.png | Yes |
-| 2 | PRIVATE 172.31.25.69  | EC2 Connect / SSH | screenshots/deployment-2.png | Yes |
-| 3 | 54.159.46.172 | EC2 Connect / SSH | screenshots/deployment-3.png | Yes |
+| 1 | 3.90.186.104 | EC2 ConnecE | INSTANCE.1 (988F).png | Yes |
+| 2 | 35.172.227.196  | EC2 Connect INSTANCE.2(BAB8).png | Yes |
+| 3 | 54.159.46.172  | SSH | INSTANCE.3.SSH (DE81).png | Yes |
 
 
 ## Deployment 1 – MICRO
@@ -51,6 +51,6 @@
 1.	EC2 > Instances (running) > Instance State > Delete
 
 ## Summary
-CPU is usage, but all three were 0% with 2 vCPUs. Each free tier size has different memory sizes. All three had the same size disk and usage amount. Uptime was how long the instance was running. 
+CPU is usage, but all three were 0% with 2 vCPUs. Each instance size was the same memory . All three had the same size disk and usage amount. Uptime was how long the instance was running. 
 
-Each instance further helped me recall the process from Class 6. No errors were encountered other than removing the cobwebs from my memory. I don’t see any instances running but I do see the launch template still available. 
+Each instance further helped me recall the process from Class 6 before my deployment last year . No errors were encountered. All  instances terminated and my instance remains available. 
