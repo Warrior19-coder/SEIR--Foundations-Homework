@@ -5,9 +5,9 @@
 | 3 | 54.159.46.172 | EC2 Connect / SSH | screenshots/deployment-3.png | Yes |
 
 
-## Deployment 1 – small
+## Deployment 1 – MICRO
 1. Launch instance from template
-2. Select small free Instance type
+2. Select t3. micro Instance type
 3. Confirm User Data in Advanced Details
 4. Launch instance
 5. Open Link
@@ -20,9 +20,9 @@
 ## Terminate EC2 – Deployment 1
 1. EC2 > Instances (running) > Instance State > Delete
 
-## Deployment 2 – micro
+## Deployment 2 – MICRO
 1.	Launch instance from template
-2.	Select small free Instance type
+2.	Select t3. micro Instance type
 3.	Confirm User Data in Advanced Details
 4.	Launch instance
 5.	Open Link
@@ -35,9 +35,9 @@
 ## Terminate EC2 – Deployment 2
 1.	EC2 > Instances (running) > Instance State > Delete
 
-## Deployment 3 – large
+## Deployment 3 – MICRO
 1.	Launch instance from template
-2.	Select large free Instance type
+2.	Select t3. micro  Instance type
 3.	Confirm User Data in Advanced Details
 4.	Launch instance
 5.	Open Link
@@ -45,7 +45,7 @@
      -	Wait for Status to pass checks
      -	Connect 
      -	3.7Gi memory
-     -	Default port 22 SSH from Security Group
+     -	USED WARRIOR-HOME-SECURITY GROUP for port 22 SSH from home i.p.
 7.	Screenshot 
 ## Terminate EC2 – Deployment 3
 1.	EC2 > Instances (running) > Instance State > Delete
