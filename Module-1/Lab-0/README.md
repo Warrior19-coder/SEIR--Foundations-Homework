@@ -2,7 +2,7 @@
 |------------|---------------------|-------------------|------------|----------------------|
 | 1 | 54.236.125.10| EC2 Connect / SSH | screenshots/deployment-1.png | Yes |
 | 2 | 3.150.127.61 | EC2 Connect / SSH | screenshots/deployment-2.png | Yes |
-| 3 | 3.16.157.141 | EC2 Connect / SSH | screenshots/deployment-3.png | Yes |
+| 3 | 54.159.46.172 | EC2 Connect / SSH | screenshots/deployment-3.png | Yes |
 
 
 ## Deployment 1 – small
