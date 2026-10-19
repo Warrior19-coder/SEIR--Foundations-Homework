@@ -1,8 +1,8 @@
 | Deployment | Public IPv4 address | Connection method | Screenshot | Instance terminated? |
 |------------|---------------------|-------------------|------------|----------------------|
-| 1 | 3.90.186.104 | EC2 ConnecE | INSTANCE.1 (988F).png | Yes |
-| 2 | 35.172.227.196  | EC2 Connect INSTANCE.2(BAB8).png | Yes |
-| 3 | 54.159.46.172  | SSH | INSTANCE.3.SSH (DE81).png | Yes |
+| 1 | 3.90.186.104   | EC2 Connect | INSTANCE.1(988F).png | Yes |
+| 2 | 35.172.227.196 | EC2 Connect | INSTANCE.2(BAB8).png | Yes |
+| 3 | 54.159.46.172  |  SSH        |INSTANCE.3.SSH(DE81).png | Yes |
 
 
 ## Deployment 1 – MICRO
