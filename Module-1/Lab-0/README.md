@@ -1,7 +1,7 @@
 | Deployment | Public IPv4 address | Connection method | Screenshot | Instance terminated? |
 |------------|---------------------|-------------------|------------|----------------------|
-| 1 | 54.236.125.10| EC2 Connect / SSH | screenshots/deployment-1.png | Yes |
-| 2 | 3.150.127.61 | EC2 Connect / SSH | screenshots/deployment-2.png | Yes |
+| 1 | PRIVATE 172.31.21.113 | EC2 Connect / SSH | screenshots/deployment-1.png | Yes |
+| 2 | PRIVATE 172.31.25.69  | EC2 Connect / SSH | screenshots/deployment-2.png | Yes |
 | 3 | 54.159.46.172 | EC2 Connect / SSH | screenshots/deployment-3.png | Yes |
 
 
