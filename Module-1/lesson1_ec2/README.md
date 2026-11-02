@@ -1,6 +1,6 @@
 | Run | Date (local) | Time zone | Instance ID | Boot time (UTC) | Public IPv4 DNS | Screenshot | Terminated? |
 |-----|--------------|-----------|-------------|-----------------|-----------------|------------|-------------|
-| 1 | 2026-10-31 | America/Phoenix | i-0031f738ab42cc617 | 2026-10-31 18:49:58     |            |       | Yes |
+| 1 | 2026-10-31 | America/Phoenix |  i-0031f738ab42cc617 | 2026-10-31 18:49:58     |            |       | Yes |
 | 2 | 2026-10-31 | America/Phoenix | i-037d3aac1409c9af1 | 2026-11-01 02:00:32     |            |       | Yes |
 | 3 | 2026-10-31 | America/Phoenix | i-0fa0594ae334cca05 | 2026-11-01 02:30:32     |            |       | Yes |
 | 4 | 2026-11-01 | America/Phoenix | i-04af316486da0c37f | 2026-11-02 02:21:56     |            |       | Yes |
