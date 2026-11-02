@@ -1,0 +1,9 @@
+| Run | Date (local) | Time zone | Instance ID | Boot time (UTC) | Public IPv4 DNS | Screenshot | Terminated? |
+|-----|--------------|-----------|-------------|-----------------|-----------------|------------|-------------|
+| 1 | 2026-10-29 | America/Chicago | i-0abc123example | 2026-10-29 23:41:07 | ec2-3-91-0-1.compute-1.amazonaws.com | `screenshots/lab1_run1.jpg` | Yes |
+| 2 | | | | | | `screenshots/lab1_run2.jpg` | |
+| 3 | | | | | | `screenshots/lab1_run3.jpg` | |
+| 4 | | | | | | `screenshots/lab1_run4.jpg` | |
+| 5 | | | | | | `screenshots/lab1_run5.jpg` | |
+| 6 | | | | | | `screenshots/lab1_run6.jpg` | |
+| 7 | | | | | | `screenshots/lab1_run7.jpg` | |
