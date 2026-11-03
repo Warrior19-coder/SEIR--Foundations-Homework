@@ -1,14 +1,3 @@
-
-Maarek quizzes
-
-| Section | Deliverable |
-|---------|-------------|
-| Section 21 |          |
-| Section 23 |          |
-| Section 25 |          |
-
-
-
 | Run | Date (local) | Time zone | Instance ID | Boot time (UTC) | Public IPv4 DNS | Screenshot | Terminated? |
 |-----|--------------|-----------|-------------|-----------------|-----------------|------------|-------------|
 | 1 | 2026-10-31 | America/Phoenix | i-0031f738ab42cc617 | 2026-10-31 18:49:58     |            |       | Yes |
